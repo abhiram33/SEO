@@ -453,8 +453,8 @@ svg {
 #hero-main .hero-image-frame h1 .hero-word-best { margin-left: 3%; }
 #hero-main .hero-image-frame h1 .hero-word-seo { margin-left: 10%; }
 #hero-main .hero-image-frame h1 .hero-word-specialist { margin-left: 12%; }
-#hero-main .hero-image-frame h1 .hero-word-in { margin-left: 60%; }
-#hero-main .hero-image-frame h1 .hero-word-trivandrum { margin-left: 61%; font-size: 0.82em; }
+#hero-main .hero-image-frame h1 .hero-word-in { margin-left: 70%; }
+#hero-main .hero-image-frame h1 .hero-word-trivandrum { margin-left: 70%; font-size: 0.82em; }
 
 @media (max-width: 639px) {
   #hero-main .hero-image-frame h1.hero-staggered-heading {
@@ -464,9 +464,9 @@ svg {
   }
   #hero-main .hero-image-frame h1 .hero-word-best { margin-left: 2%; }
   #hero-main .hero-image-frame h1 .hero-word-seo { margin-left: 8%; }
-  #hero-main .hero-image-frame h1 .hero-word-specialist { margin-left: 10%; }
-  #hero-main .hero-image-frame h1 .hero-word-in { margin-left: 50%; }
-  #hero-main .hero-image-frame h1 .hero-word-trivandrum { margin-left: 58%; }
+  #hero-main .hero-image-frame h1 .hero-word-specialist { margin-left: 8%; }
+  #hero-main .hero-image-frame h1 .hero-word-in { margin-left: 68%; }
+  #hero-main .hero-image-frame h1 .hero-word-trivandrum { margin-left: 68%; }
 }
 
 .hero-staggered-heading span {
