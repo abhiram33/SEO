@@ -4,5 +4,5 @@ Allow: /
 Disallow: /api/
 
 # Host and Sitemap
-Host: https://abhiram-seo.com
-Sitemap: https://abhiram-seo.com/sitemap.xml
+Host: https://abhiram33.github.io
+Sitemap: https://abhiram33.github.io/SEO/sitemap.xml
